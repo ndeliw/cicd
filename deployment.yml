@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: niral-container
-        image: gagandeepthinknyx/intel-app:latest
+        image: niralthinknyx/intel-app:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
